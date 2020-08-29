@@ -8,8 +8,7 @@ I’m currently learning **`Node.js`**, **`Vue.js`**, **`React.js`**
 I’m currently working on my portfolio 💼  
 
 ### My portfolio list:point_down: :octocat:
-- [pcs front-end ver.2](https://github.com/imseongtae/pcs-front-ver.2)
-- [pcs back-end ver.2](https://github.com/imseongtae/pcs-back-ver.2)
+- [pcs ver.2 project video](https://www.youtube.com/watch?v=lzM6IP4x-Sc)
 
 
 <br />
