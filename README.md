@@ -4,11 +4,12 @@ I'm web developer [imseongtae!](https://github.com/imseongtae) :man_technologist
 
 :memo: Record web development study in My Github:octocat:
 
-I’m currently learning **`Node.js`**, **`Vue.js`**, **`React.js`**  
+I’m currently learning **`Vue.js`**, **`Nuxt.js`**, **`Nest.js`**  
 I’m currently working on my portfolio 💼  
 
 ### My portfolio list:point_down: :octocat:
-- [pcs ver.2 project video](https://www.youtube.com/watch?v=lzM6IP4x-Sc)
+- soon 👋
+<!-- - [pcs ver.2 project video](https://www.youtube.com/watch?v=lzM6IP4x-Sc) -->
 
 
 <br />
