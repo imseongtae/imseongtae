@@ -1,7 +1,6 @@
-### Hi there :wave:
+<strong>Hi there :wave:</strong>
 
-<h1>I'm web developer [imseongtae!](https://github.com/imseongtae) :man_technologist:</h1>
-<!-- I'm web developer [imseongtae!](https://github.com/imseongtae) :man_technologist: -->
+<h1>I'm web developer imseongtae! :man_technologist:</h1>
 
 :memo: Record web development study in My Github:octocat:
 
@@ -14,14 +13,17 @@ I’m currently working on my portfolio 💼
 
 <br />
 
-### Skills:
+<!-- ### Skills: -->
+<h3>Skills :</h3>
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
@@ -30,8 +32,7 @@ I’m currently working on my portfolio 💼
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-
-
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white)
 
 
 
