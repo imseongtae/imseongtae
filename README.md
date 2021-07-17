@@ -37,9 +37,12 @@ I’m currently working on my portfolio 💼
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imseongtae&show_icons=true&locale=en&layout=compact&langs_count=6&theme=tokyonight" alt="Most used languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imseongtae&show_icons=true&locale=en&theme=tokyonight&hide=contribs,prs" alt="Github stats" width="410" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imseongtae&show_icons=true&locale=en&layout=compact&langs_count=6" alt="Most used languages" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imseongtae&show_icons=true&locale=en&hide=contribs,prs" alt="Github stats" /></p>
+  <!-- &theme=tokyonight -->
+  <!-- width="410" -->
+</div>
 
 
 
